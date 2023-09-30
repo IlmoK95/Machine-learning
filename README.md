@@ -1,6 +1,6 @@
 <h2> Simple shape detector</h2>
 
-- In oreder to train and test the Tensorflow model, pleasde install
+- In order to train and test the Tensorflow model, please install
   - Tensorflow
   - Keras
   - Numpy
