@@ -6,5 +6,5 @@
   
   
 - The default model architecture contains 3 hidden layers, and uses softmax in output layer.
-  The structure should be enough to differentiate between primitive shapes such as circles, triangels, squares and stars.
+  The structure should be enough to create a model differentiating between primitive shapes such as circles, triangels, squares and stars.
   
